@@ -1,0 +1,2 @@
+🖼️ Portfolio Page
+The portfolio page is the meat and potatoes of your personal site, here you want to include the projects you have worked on. For each project you wish to showcase, you should include the name of your project, a brief description, a screenshot, and a link to where it lives on the web.

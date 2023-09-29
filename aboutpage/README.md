@@ -1,0 +1,2 @@
+👤 About Page
+An about page is a place for people to get to know you. You should include your interests, and things you are good at, and in general you should pull back enough of the curtain into your life to interest a potential employer in you as a person.
