@@ -36,7 +36,6 @@ section>div {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-
 }
 
 main {
@@ -45,11 +44,21 @@ main {
     padding: 20px;
     background: #C72358;
     display: flex;
+    flex-direction: column;
+}
+
+main span {
+    display: flex;
     flex-direction: row;
-    /* flex-wrap: wrap; */
+    justify-content: space-around;
 }
 
 #quote {
-    display: inline;
     display: flex;
+    justify-content: center;
+}
+
+#portfolioPageMainBody {
+    display: flex;
+    flex-direction: column;
 }

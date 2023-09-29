@@ -31,7 +31,7 @@ portfolioPageButton.style.textDecoration = "none";
 
 
 navBar.append(nameTitle);
-navButtons.append(aboutPageButton, homePageButton, contactPageButton, portfolioPageButton);
+navButtons.append(homePageButton, aboutPageButton, contactPageButton, portfolioPageButton);
 navSection.append(navBar, navButtons);
 
 document.body.append(navSection);
