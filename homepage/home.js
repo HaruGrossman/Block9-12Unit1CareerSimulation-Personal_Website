@@ -5,3 +5,5 @@
 
 
 // aboutPageButton.document.links
+
+console.log("Hi, I'm Haru!!")

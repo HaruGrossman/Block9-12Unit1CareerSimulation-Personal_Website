@@ -1,3 +1,6 @@
+Student Name: Haru Grossman
+Cohort code: 2309-FSA-ET-WEB-FT-SF
+
 # Block9-12Unit1CareerSimulation-Personal_Website
 
 Calliope has asked you to create a personal site with a brief bio. It is a chance to show off who you are, what you are about, and what you have accomplished. 

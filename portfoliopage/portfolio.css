@@ -20,6 +20,6 @@
     flex-direction: row;
 }
 
-.productCards>main>h2 {
+.portfolioTitle {
     justify-items: center;
 }
