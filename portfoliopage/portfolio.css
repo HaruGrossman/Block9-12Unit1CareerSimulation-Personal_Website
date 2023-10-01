@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    background: #892BB1;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 2px dashed black;
+}
+
+.guts {
+    display: flex;
+    flex-direction: row;
+}
+
+.productCards>main>h2 {
+    justify-items: center;
+}
